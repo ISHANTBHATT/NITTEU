@@ -150,7 +150,7 @@ function Navbar() {
           </Link>
 
           <Link
-            href="/pages"
+            href="/contact"
             className="text-white hover:text-gray-200 flex items-center"
           >
             Contact
@@ -159,7 +159,7 @@ function Navbar() {
             href="/pages"
             className="text-white hover:text-gray-200 flex items-center"
           >
-            Contact
+            Events
           </Link>
         </div>
       </motion.nav>
