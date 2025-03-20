@@ -169,10 +169,10 @@ function Footer() {
             <div className="w-8 h-8 bg-[#C1344E] flex items-center justify-center text-white font-bold">
               X
             </div>
-            <span className="font-medium">Nitteu</span>
+            <span className="font-medium">Nittedu</span>
           </div>
           <div className="text-sm text-gray-600">
-            © Copyright - Nitteu | Designed by{" "}
+            © Copyright - Nittedu | Designed by{" "}
             <a href="#" className="text-[#C1344E]">
               Apace Digital Cargo
             </a>{" "}
